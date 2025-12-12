@@ -34,9 +34,9 @@ Ele deve:
 * 2 baterias de 9V.
 
 ## Como Testar
-**1.** Gravar o arquivo main.ino.hex no respectivo microcontrolador.
-**2.** Conectar as baterias ao robô.
-**3.** Testar as respectivas funções:
+- **1.** Gravar o arquivo main.ino.hex no respectivo microcontrolador.
+- **2.** Conectar as baterias ao robô.
+- **3.** Testar as respectivas funções:
      * Giro no eixo;
      * PWM dos motores;
      * Disparo do laser:
