@@ -1,0 +1,3 @@
+Plotted to 'E:\carrinho schina\esquematico-gigante-mdf\placa-b\placa-b-B_Cu.gbr'.
+Created Gerber job file 'E:\carrinho schina\esquematico-gigante-mdf\placa-b\placa-b-job.gbrjob'.
+Informação: Done.
