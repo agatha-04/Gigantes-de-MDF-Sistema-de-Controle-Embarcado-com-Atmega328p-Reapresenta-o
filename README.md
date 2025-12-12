@@ -34,7 +34,7 @@ Ele deve:
 * 2 baterias de 9V.
 
 ## Como Testar
-- **1.** Gravar o arquivo main.ino.hex no respectivo microcontrolador.
+- **1.** Gravar o arquivo car_main_final.ino.hex no respectivo microcontrolador.
 - **2.** Conectar as baterias ao robô.
 - **3.** Testar as respectivas funções:
      * Giro no eixo;
