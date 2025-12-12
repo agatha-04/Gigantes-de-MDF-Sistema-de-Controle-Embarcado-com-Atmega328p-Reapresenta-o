@@ -37,12 +37,12 @@ Ele deve:
 **1.** Gravar o arquivo main.ino.hex no respectivo microcontrolador.
 **2.** Conectar as baterias ao robô.
 **3.** Testar as respectivas funções:
-      * Giro no eixo;
-      * PWM dos motores;
-      * Disparo do laser:
-      * Resposta ao laser inimigo;
-      * LEDs de vida;
-      * Botão de reset.
+     * Giro no eixo;
+     * PWM dos motores;
+     * Disparo do laser:
+     * Resposta ao laser inimigo;
+     * LEDs de vida;
+     * Botão de reset.
 
 ## Autores
 * **Autor(a):** Agatha Nicole Marques Fávaro - **RA:** 231335
